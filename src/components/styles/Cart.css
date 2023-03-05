@@ -1,0 +1,15 @@
+.cart-data-cards{
+    width :300px;
+    border:1px solid #080808;
+    background-color: #f8f8f8;
+    padding:15px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.img-sec{
+    width: 100%;
+}
+.img-sec img{
+    max-width: 100%;
+}
